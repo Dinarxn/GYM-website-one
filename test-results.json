@@ -1,0 +1,1436 @@
+{
+  "timestamp": "2026-11-11T13:51:43.881Z",
+  "durationMs": 712,
+  "totalTests": 234,
+  "passed": 234,
+  "failed": 0,
+  "skipped": 0,
+  "tierStats": {
+    "tier1": {
+      "total": 100,
+      "passed": 100,
+      "failed": 0
+    },
+    "tier2": {
+      "total": 100,
+      "passed": 100,
+      "failed": 0
+    },
+    "tier3": {
+      "total": 24,
+      "passed": 24,
+      "failed": 0
+    },
+    "tier4": {
+      "total": 10,
+      "passed": 10,
+      "failed": 0
+    }
+  },
+  "results": [
+    {
+      "suite": "Tier 1 - Feature 01: Framework Scaffolding & Design Tokens (tier1\\f01_framework_tokens.test.js)",
+      "name": "T1-F01-01: Exact 4-Color Brand Theme Tokens",
+      "status": "passed",
+      "durationMs": 12
+    },
+    {
+      "suite": "Tier 1 - Feature 01: Framework Scaffolding & Design Tokens (tier1\\f01_framework_tokens.test.js)",
+      "name": "T1-F01-02: WCAG AAA Contrast Ratios on Deep Obsidian",
+      "status": "passed",
+      "durationMs": 8
+    },
+    {
+      "suite": "Tier 1 - Feature 01: Framework Scaffolding & Design Tokens (tier1\\f01_framework_tokens.test.js)",
+      "name": "T1-F01-03: SiteConfig Object Interface Integrity",
+      "status": "passed",
+      "durationMs": 10
+    },
+    {
+      "suite": "Tier 1 - Feature 01: Framework Scaffolding & Design Tokens (tier1\\f01_framework_tokens.test.js)",
+      "name": "T1-F01-04: Framework Dependency Verification",
+      "status": "passed",
+      "durationMs": 1
+    },
+    {
+      "suite": "Tier 1 - Feature 01: Framework Scaffolding & Design Tokens (tier1\\f01_framework_tokens.test.js)",
+      "name": "T1-F01-05: Root Layout Document Meta & Viewport",
+      "status": "passed",
+      "durationMs": 1
+    },
+    {
+      "suite": "Tier 1 - Feature 02: Component Library & UI Primitives (tier1\\f02_ui_primitives.test.js)",
+      "name": "T1-F02-01: Button Component Variants & Primary Lime Styling",
+      "status": "passed",
+      "durationMs": 1
+    },
+    {
+      "suite": "Tier 1 - Feature 02: Component Library & UI Primitives (tier1\\f02_ui_primitives.test.js)",
+      "name": "T1-F02-02: Badge Component Styling & Typography",
+      "status": "passed",
+      "durationMs": 1
+    },
+    {
+      "suite": "Tier 1 - Feature 02: Component Library & UI Primitives (tier1\\f02_ui_primitives.test.js)",
+      "name": "T1-F02-03: SectionHeader Eyebrow, H2 Title, and Subtitle Hierarchy",
+      "status": "passed",
+      "durationMs": 3
+    },
+    {
+      "suite": "Tier 1 - Feature 02: Component Library & UI Primitives (tier1\\f02_ui_primitives.test.js)",
+      "name": "T1-F02-04: TiltCard 3D Perspective Container",
+      "status": "passed",
+      "durationMs": 1
+    },
+    {
+      "suite": "Tier 1 - Feature 02: Component Library & UI Primitives (tier1\\f02_ui_primitives.test.js)",
+      "name": "T1-F02-05: LightboxModal Accessible Dialog & Dismissal",
+      "status": "passed",
+      "durationMs": 1
+    },
+    {
+      "suite": "Tier 1 - Feature 03: Floating Navbar & Mobile Drawer (tier1\\f03_navigation.test.js)",
+      "name": "T1-F03-01: Desktop Floating Pill Navbar Structure & Links",
+      "status": "passed",
+      "durationMs": 1
+    },
+    {
+      "suite": "Tier 1 - Feature 03: Floating Navbar & Mobile Drawer (tier1\\f03_navigation.test.js)",
+      "name": "T1-F03-02: Dynamic Scroll Blur & Compact State",
+      "status": "passed",
+      "durationMs": 1
+    },
+    {
+      "suite": "Tier 1 - Feature 03: Floating Navbar & Mobile Drawer (tier1\\f03_navigation.test.js)",
+      "name": "T1-F03-03: ScrollSpy Active Section Highlighting",
+      "status": "passed",
+      "durationMs": 1
+    },
+    {
+      "suite": "Tier 1 - Feature 03: Floating Navbar & Mobile Drawer (tier1\\f03_navigation.test.js)",
+      "name": "T1-F03-04: Mobile Hamburger Toggle & Morphing Icon",
+      "status": "passed",
+      "durationMs": 1
+    },
+    {
+      "suite": "Tier 1 - Feature 03: Floating Navbar & Mobile Drawer (tier1\\f03_navigation.test.js)",
+      "name": "T1-F03-05: Mobile Drawer Link Navigation & Auto-Close",
+      "status": "passed",
+      "durationMs": 0
+    },
+    {
+      "suite": "Tier 1 - Feature 04: Training Programs Section (tier1\\f04_programs.test.js)",
+      "name": "T1-F04-01: Render 4 Core Training Disciplines",
+      "status": "passed",
+      "durationMs": 0
+    },
+    {
+      "suite": "Tier 1 - Feature 04: Training Programs Section (tier1\\f04_programs.test.js)",
+      "name": "T1-F04-02: Category Filter Tabs Functionality",
+      "status": "passed",
+      "durationMs": 1
+    },
+    {
+      "suite": "Tier 1 - Feature 04: Training Programs Section (tier1\\f04_programs.test.js)",
+      "name": "T1-F04-03: Program Card Metadata & Intensity Meter",
+      "status": "passed",
+      "durationMs": 1
+    },
+    {
+      "suite": "Tier 1 - Feature 04: Training Programs Section (tier1\\f04_programs.test.js)",
+      "name": "T1-F04-04: Syllabus Modal Trigger & Detailed Content",
+      "status": "passed",
+      "durationMs": 1
+    },
+    {
+      "suite": "Tier 1 - Feature 04: Training Programs Section (tier1\\f04_programs.test.js)",
+      "name": "T1-F04-05: Syllabus Modal Dismissal",
+      "status": "passed",
+      "durationMs": 1
+    },
+    {
+      "suite": "Tier 1 - Feature 05: About the Gym Bento Grid (tier1\\f05_about_bento.test.js)",
+      "name": "T1-F05-01: Bento Grid 4 Core Pillars",
+      "status": "passed",
+      "durationMs": 1
+    },
+    {
+      "suite": "Tier 1 - Feature 05: About the Gym Bento Grid (tier1\\f05_about_bento.test.js)",
+      "name": "T1-F05-02: Asymmetrical Bento Grid Column Spanning (Desktop)",
+      "status": "passed",
+      "durationMs": 1
+    },
+    {
+      "suite": "Tier 1 - Feature 05: About the Gym Bento Grid (tier1\\f05_about_bento.test.js)",
+      "name": "T1-F05-03: Quantitative Metric Stat Callouts",
+      "status": "passed",
+      "durationMs": 1
+    },
+    {
+      "suite": "Tier 1 - Feature 05: About the Gym Bento Grid (tier1\\f05_about_bento.test.js)",
+      "name": "T1-F05-04: Dark Industrial Surface & Border Tokens",
+      "status": "passed",
+      "durationMs": 1
+    },
+    {
+      "suite": "Tier 1 - Feature 05: About the Gym Bento Grid (tier1\\f05_about_bento.test.js)",
+      "name": "T1-F05-05: Mobile Responsive Single-Column Stacking",
+      "status": "passed",
+      "durationMs": 0
+    },
+    {
+      "suite": "Tier 1 - Feature 06: Trainers Section & 3D Tilt Cards (tier1\\f06_trainers.test.js)",
+      "name": "T1-F06-01: Render 3 Demo Trainer Profiles",
+      "status": "passed",
+      "durationMs": 1
+    },
+    {
+      "suite": "Tier 1 - Feature 06: Trainers Section & 3D Tilt Cards (tier1\\f06_trainers.test.js)",
+      "name": "T1-F06-02: Trainer Credentials & Philosophy Quotes",
+      "status": "passed",
+      "durationMs": 0
+    },
+    {
+      "suite": "Tier 1 - Feature 06: Trainers Section & 3D Tilt Cards (tier1\\f06_trainers.test.js)",
+      "name": "T1-F06-03: 3D Tilt Physics Calculations on Pointer Move",
+      "status": "passed",
+      "durationMs": 1
+    },
+    {
+      "suite": "Tier 1 - Feature 06: Trainers Section & 3D Tilt Cards (tier1\\f06_trainers.test.js)",
+      "name": "T1-F06-04: Dynamic Radial Sheen Highlight",
+      "status": "passed",
+      "durationMs": 0
+    },
+    {
+      "suite": "Tier 1 - Feature 06: Trainers Section & 3D Tilt Cards (tier1\\f06_trainers.test.js)",
+      "name": "T1-F06-05: Consultation CTA Action Trigger",
+      "status": "passed",
+      "durationMs": 1
+    },
+    {
+      "suite": "Tier 1 - Feature 07: Membership Experience (tier1\\f07_membership.test.js)",
+      "name": "T1-F07-01: Render Three Tiered Plans (Starter, Pro, Elite)",
+      "status": "passed",
+      "durationMs": 0
+    },
+    {
+      "suite": "Tier 1 - Feature 07: Membership Experience (tier1\\f07_membership.test.js)",
+      "name": "T1-F07-02: Pro Tier Visual Prominence & \"MOST POPULAR\" Badge",
+      "status": "passed",
+      "durationMs": 1
+    },
+    {
+      "suite": "Tier 1 - Feature 07: Membership Experience (tier1\\f07_membership.test.js)",
+      "name": "T1-F07-03: Monthly vs Annual Billing Toggle & 20% Discount",
+      "status": "passed",
+      "durationMs": 1
+    },
+    {
+      "suite": "Tier 1 - Feature 07: Membership Experience (tier1\\f07_membership.test.js)",
+      "name": "T1-F07-04: Interactive Amenities Comparison Matrix",
+      "status": "passed",
+      "durationMs": 20
+    },
+    {
+      "suite": "Tier 1 - Feature 07: Membership Experience (tier1\\f07_membership.test.js)",
+      "name": "T1-F07-05: Tier CTA Preselection Integration",
+      "status": "passed",
+      "durationMs": 0
+    },
+    {
+      "suite": "Tier 1 - Feature 08: Gallery Experience (tier1\\f08_gallery.test.js)",
+      "name": "T1-F08-01: Curated 8-Photo Masonry Grid Rendering",
+      "status": "passed",
+      "durationMs": 0
+    },
+    {
+      "suite": "Tier 1 - Feature 08: Gallery Experience (tier1\\f08_gallery.test.js)",
+      "name": "T1-F08-02: Category Filter Tabs",
+      "status": "passed",
+      "durationMs": 1
+    },
+    {
+      "suite": "Tier 1 - Feature 08: Gallery Experience (tier1\\f08_gallery.test.js)",
+      "name": "T1-F08-03: WebP Lazy Loading & Skeleton Placeholders",
+      "status": "passed",
+      "durationMs": 0
+    },
+    {
+      "suite": "Tier 1 - Feature 08: Gallery Experience (tier1\\f08_gallery.test.js)",
+      "name": "T1-F08-04: Click-to-Enlarge Lightbox Modal Open",
+      "status": "passed",
+      "durationMs": 1
+    },
+    {
+      "suite": "Tier 1 - Feature 08: Gallery Experience (tier1\\f08_gallery.test.js)",
+      "name": "T1-F08-05: Lightbox Next and Previous Navigation",
+      "status": "passed",
+      "durationMs": 0
+    },
+    {
+      "suite": "Tier 1 - Feature 09: Testimonials Section (tier1\\f09_testimonials.test.js)",
+      "name": "T1-F09-01: Render 3 Fictional Demo Testimonials",
+      "status": "passed",
+      "durationMs": 0
+    },
+    {
+      "suite": "Tier 1 - Feature 09: Testimonials Section (tier1\\f09_testimonials.test.js)",
+      "name": "T1-F09-02: Mandatory Fictional Demo Disclaimer Badge",
+      "status": "passed",
+      "durationMs": 0
+    },
+    {
+      "suite": "Tier 1 - Feature 09: Testimonials Section (tier1\\f09_testimonials.test.js)",
+      "name": "T1-F09-03: Inline Demo Profile Labels",
+      "status": "passed",
+      "durationMs": 1
+    },
+    {
+      "suite": "Tier 1 - Feature 09: Testimonials Section (tier1\\f09_testimonials.test.js)",
+      "name": "T1-F09-04: 5-Star Visual Rating in Acid Lime",
+      "status": "passed",
+      "durationMs": 0
+    },
+    {
+      "suite": "Tier 1 - Feature 09: Testimonials Section (tier1\\f09_testimonials.test.js)",
+      "name": "T1-F09-05: Quantifiable Performance Metric Callouts",
+      "status": "passed",
+      "durationMs": 1
+    },
+    {
+      "suite": "Tier 1 - Feature 10: Final Conversion CTA & Footer (tier1\\f10_final_cta_footer.test.js)",
+      "name": "T1-F10-01: Cinematic Conversion Banner Headline & Styling",
+      "status": "passed",
+      "durationMs": 0
+    },
+    {
+      "suite": "Tier 1 - Feature 10: Final Conversion CTA & Footer (tier1\\f10_final_cta_footer.test.js)",
+      "name": "T1-F10-02: Dual Action Conversion Buttons",
+      "status": "passed",
+      "durationMs": 1
+    },
+    {
+      "suite": "Tier 1 - Feature 10: Final Conversion CTA & Footer (tier1\\f10_final_cta_footer.test.js)",
+      "name": "T1-F10-03: Three Trust Assurance Pills",
+      "status": "passed",
+      "durationMs": 0
+    },
+    {
+      "suite": "Tier 1 - Feature 10: Final Conversion CTA & Footer (tier1\\f10_final_cta_footer.test.js)",
+      "name": "T1-F10-04: Comprehensive Footer Operational Hours & Contacts",
+      "status": "passed",
+      "durationMs": 1
+    },
+    {
+      "suite": "Tier 1 - Feature 10: Final Conversion CTA & Footer (tier1\\f10_final_cta_footer.test.js)",
+      "name": "T1-F10-05: Mandatory Demo Mode Footer Disclaimer",
+      "status": "passed",
+      "durationMs": 1
+    },
+    {
+      "suite": "Tier 1 - Feature 11: Contact Form & WhatsApp Integration (tier1\\f11_contact_whatsapp.test.js)",
+      "name": "T1-F11-01: Valid Contact Enquiry Submission Flow",
+      "status": "passed",
+      "durationMs": 0
+    },
+    {
+      "suite": "Tier 1 - Feature 11: Contact Form & WhatsApp Integration (tier1\\f11_contact_whatsapp.test.js)",
+      "name": "T1-F11-02: Permanent Demo Mode Notice Display",
+      "status": "passed",
+      "durationMs": 0
+    },
+    {
+      "suite": "Tier 1 - Feature 11: Contact Form & WhatsApp Integration (tier1\\f11_contact_whatsapp.test.js)",
+      "name": "T1-F11-03: Form Reset After Successful Submission",
+      "status": "passed",
+      "durationMs": 1
+    },
+    {
+      "suite": "Tier 1 - Feature 11: Contact Form & WhatsApp Integration (tier1\\f11_contact_whatsapp.test.js)",
+      "name": "T1-F11-04: Parameterized WhatsApp URL Builder Verification",
+      "status": "passed",
+      "durationMs": 0
+    },
+    {
+      "suite": "Tier 1 - Feature 11: Contact Form & WhatsApp Integration (tier1\\f11_contact_whatsapp.test.js)",
+      "name": "T1-F11-05: Floating Quick-Action WhatsApp Badge Rendering",
+      "status": "passed",
+      "durationMs": 0
+    },
+    {
+      "suite": "Tier 1 - Feature 12: 3D Canvas & WebGL Fallback Infrastructure (tier1\\f12_canvas_webgl.test.js)",
+      "name": "T1-F12-01: Persistent Canvas Fixed Mounting & Layering",
+      "status": "passed",
+      "durationMs": 0
+    },
+    {
+      "suite": "Tier 1 - Feature 12: 3D Canvas & WebGL Fallback Infrastructure (tier1\\f12_canvas_webgl.test.js)",
+      "name": "T1-F12-02: SSR-Safe Dynamic Import & Skeleton Loader",
+      "status": "passed",
+      "durationMs": 0
+    },
+    {
+      "suite": "Tier 1 - Feature 12: 3D Canvas & WebGL Fallback Infrastructure (tier1\\f12_canvas_webgl.test.js)",
+      "name": "T1-F12-03: WebGL Capability Detection Execution",
+      "status": "passed",
+      "durationMs": 2
+    },
+    {
+      "suite": "Tier 1 - Feature 12: 3D Canvas & WebGL Fallback Infrastructure (tier1\\f12_canvas_webgl.test.js)",
+      "name": "T1-F12-04: Adaptive DPR Desktop Configuration",
+      "status": "passed",
+      "durationMs": 0
+    },
+    {
+      "suite": "Tier 1 - Feature 12: 3D Canvas & WebGL Fallback Infrastructure (tier1\\f12_canvas_webgl.test.js)",
+      "name": "T1-F12-05: Static Fallback Image Rendering When WebGL Unsupported",
+      "status": "passed",
+      "durationMs": 1
+    },
+    {
+      "suite": "Tier 1 - Feature 13: Dark Industrial Gym Environment & Lighting (tier1\\f13_gym_environment.test.js)",
+      "name": "T1-F13-01: Exact 4-Color Brand Lighting Palette Verification",
+      "status": "passed",
+      "durationMs": 0
+    },
+    {
+      "suite": "Tier 1 - Feature 13: Dark Industrial Gym Environment & Lighting (tier1\\f13_gym_environment.test.js)",
+      "name": "T1-F13-02: Dark Industrial Atmosphere & Design Tokens",
+      "status": "passed",
+      "durationMs": 1
+    },
+    {
+      "suite": "Tier 1 - Feature 13: Dark Industrial Gym Environment & Lighting (tier1\\f13_gym_environment.test.js)",
+      "name": "T1-F13-03: Persistent Canvas Mount Container in RootLayout",
+      "status": "passed",
+      "durationMs": 1
+    },
+    {
+      "suite": "Tier 1 - Feature 13: Dark Industrial Gym Environment & Lighting (tier1\\f13_gym_environment.test.js)",
+      "name": "T1-F13-04: Neon Glow Utility Classes and Accent Gradients",
+      "status": "passed",
+      "durationMs": 0
+    },
+    {
+      "suite": "Tier 1 - Feature 13: Dark Industrial Gym Environment & Lighting (tier1\\f13_gym_environment.test.js)",
+      "name": "T1-F13-05: Dark Industrial Scrollbar & Selection Styling",
+      "status": "passed",
+      "durationMs": 0
+    },
+    {
+      "suite": "Tier 1 - Feature 14: 3D Athletic Hero Figure & Reveal (tier1\\f14_hero_figure.test.js)",
+      "name": "T1-F14-01: Initial Hero Camera Waypoint & Stance Orientation",
+      "status": "passed",
+      "durationMs": 1
+    },
+    {
+      "suite": "Tier 1 - Feature 14: 3D Athletic Hero Figure & Reveal (tier1\\f14_hero_figure.test.js)",
+      "name": "T1-F14-02: Brand Configuration Alignment with Hero Headline",
+      "status": "passed",
+      "durationMs": 0
+    },
+    {
+      "suite": "Tier 1 - Feature 14: 3D Athletic Hero Figure & Reveal (tier1\\f14_hero_figure.test.js)",
+      "name": "T1-F14-03: Accessible Semantic Hero Headline & Overlay Copy",
+      "status": "passed",
+      "durationMs": 0
+    },
+    {
+      "suite": "Tier 1 - Feature 14: 3D Athletic Hero Figure & Reveal (tier1\\f14_hero_figure.test.js)",
+      "name": "T1-F14-04: Hero Performance Metrics & Competition Iron Badges",
+      "status": "passed",
+      "durationMs": 1
+    },
+    {
+      "suite": "Tier 1 - Feature 14: 3D Athletic Hero Figure & Reveal (tier1\\f14_hero_figure.test.js)",
+      "name": "T1-F14-05: Action Buttons & Accessible Scroll Cue",
+      "status": "passed",
+      "durationMs": 0
+    },
+    {
+      "suite": "Tier 1 - Feature 15: GSAP ScrollTrigger 5-Scene Camera Narrative (tier1\\f15_camera_narrative.test.js)",
+      "name": "T1-F15-01: 5 Narrative Waypoints Exact Spatial Definition",
+      "status": "passed",
+      "durationMs": 1
+    },
+    {
+      "suite": "Tier 1 - Feature 15: GSAP ScrollTrigger 5-Scene Camera Narrative (tier1\\f15_camera_narrative.test.js)",
+      "name": "T1-F15-02: Waypoint Identification Across Normalized Progress",
+      "status": "passed",
+      "durationMs": 0
+    },
+    {
+      "suite": "Tier 1 - Feature 15: GSAP ScrollTrigger 5-Scene Camera Narrative (tier1\\f15_camera_narrative.test.js)",
+      "name": "T1-F15-03: Catmull-Rom Interpolation Spatial Continuity",
+      "status": "passed",
+      "durationMs": 2
+    },
+    {
+      "suite": "Tier 1 - Feature 15: GSAP ScrollTrigger 5-Scene Camera Narrative (tier1\\f15_camera_narrative.test.js)",
+      "name": "T1-F15-04: Reduced Motion Static Vantage Point Locking",
+      "status": "passed",
+      "durationMs": 0
+    },
+    {
+      "suite": "Tier 1 - Feature 15: GSAP ScrollTrigger 5-Scene Camera Narrative (tier1\\f15_camera_narrative.test.js)",
+      "name": "T1-F15-05: Spline Target Trajectory Continuity Across Narrative Arc",
+      "status": "passed",
+      "durationMs": 1
+    },
+    {
+      "suite": "Tier 1 - Feature 16: Interactive 3D Equipment Showcase (tier1\\f16_equipment_showcase.test.js)",
+      "name": "T1-F16-01: Equipment Catalog Complete 4-Item Roster & IDs",
+      "status": "passed",
+      "durationMs": 1
+    },
+    {
+      "suite": "Tier 1 - Feature 16: Interactive 3D Equipment Showcase (tier1\\f16_equipment_showcase.test.js)",
+      "name": "T1-F16-02: Competition Barbell & Dumbbell Biomechanical Engineering Specifications",
+      "status": "passed",
+      "durationMs": 0
+    },
+    {
+      "suite": "Tier 1 - Feature 16: Interactive 3D Equipment Showcase (tier1\\f16_equipment_showcase.test.js)",
+      "name": "T1-F16-03: Calibrated Competition Plates & Adjustable Bench Specifications",
+      "status": "passed",
+      "durationMs": 1
+    },
+    {
+      "suite": "Tier 1 - Feature 16: Interactive 3D Equipment Showcase (tier1\\f16_equipment_showcase.test.js)",
+      "name": "T1-F16-04: EquipmentSectionOverlay Interactive Tabs & Cues",
+      "status": "passed",
+      "durationMs": 1
+    },
+    {
+      "suite": "Tier 1 - Feature 16: Interactive 3D Equipment Showcase (tier1\\f16_equipment_showcase.test.js)",
+      "name": "T1-F16-05: Technical Specifications & Key Features Split Display",
+      "status": "passed",
+      "durationMs": 0
+    },
+    {
+      "suite": "Tier 1 - Feature 17: Motion Accessibility & Keyboard Navigation (tier1\\f17_accessibility_motion.test.js)",
+      "name": "T1-F17-01: prefers-reduced-motion Media Query Detection",
+      "status": "passed",
+      "durationMs": 0
+    },
+    {
+      "suite": "Tier 1 - Feature 17: Motion Accessibility & Keyboard Navigation (tier1\\f17_accessibility_motion.test.js)",
+      "name": "T1-F17-02: 3D Camera Path Locking Under Reduced Motion",
+      "status": "passed",
+      "durationMs": 0
+    },
+    {
+      "suite": "Tier 1 - Feature 17: Motion Accessibility & Keyboard Navigation (tier1\\f17_accessibility_motion.test.js)",
+      "name": "T1-F17-03: Static Cross-Fade Scene Transition Replacement",
+      "status": "passed",
+      "durationMs": 1
+    },
+    {
+      "suite": "Tier 1 - Feature 17: Motion Accessibility & Keyboard Navigation (tier1\\f17_accessibility_motion.test.js)",
+      "name": "T1-F17-04: Accessible Keyboard Section Navigation",
+      "status": "passed",
+      "durationMs": 0
+    },
+    {
+      "suite": "Tier 1 - Feature 17: Motion Accessibility & Keyboard Navigation (tier1\\f17_accessibility_motion.test.js)",
+      "name": "T1-F17-05: Visible Focus Rings & Skip to Content Link",
+      "status": "passed",
+      "durationMs": 1
+    },
+    {
+      "suite": "Tier 1 - Feature 18: Mobile-First Performance & Layout Hardening (tier1\\f18_mobile_performance.test.js)",
+      "name": "T1-F18-01: Zero Horizontal Overflow Across Standard Mobile Viewports",
+      "status": "passed",
+      "durationMs": 1
+    },
+    {
+      "suite": "Tier 1 - Feature 18: Mobile-First Performance & Layout Hardening (tier1\\f18_mobile_performance.test.js)",
+      "name": "T1-F18-02: Touch Target Minimum Dimension Compliance (44x44px)",
+      "status": "passed",
+      "durationMs": 0
+    },
+    {
+      "suite": "Tier 1 - Feature 18: Mobile-First Performance & Layout Hardening (tier1\\f18_mobile_performance.test.js)",
+      "name": "T1-F18-03: Mobile DPR Clamping (Capped at 1.3)",
+      "status": "passed",
+      "durationMs": 0
+    },
+    {
+      "suite": "Tier 1 - Feature 18: Mobile-First Performance & Layout Hardening (tier1\\f18_mobile_performance.test.js)",
+      "name": "T1-F18-04: Single-Column Responsive Grid Reflow",
+      "status": "passed",
+      "durationMs": 1
+    },
+    {
+      "suite": "Tier 1 - Feature 18: Mobile-First Performance & Layout Hardening (tier1\\f18_mobile_performance.test.js)",
+      "name": "T1-F18-05: GPU Resource Disposal on Component Unmount",
+      "status": "passed",
+      "durationMs": 1
+    },
+    {
+      "suite": "Tier 1 - Feature 19: Production Build & Lint Verification (tier1\\f19_production_build.test.js)",
+      "name": "T1-F19-01: Next.js 15 Production Build Configuration",
+      "status": "passed",
+      "durationMs": 0
+    },
+    {
+      "suite": "Tier 1 - Feature 19: Production Build & Lint Verification (tier1\\f19_production_build.test.js)",
+      "name": "T1-F19-02: Strict TypeScript Type Checking Configuration",
+      "status": "passed",
+      "durationMs": 1
+    },
+    {
+      "suite": "Tier 1 - Feature 19: Production Build & Lint Verification (tier1\\f19_production_build.test.js)",
+      "name": "T1-F19-03: ESLint Static Analysis Configuration",
+      "status": "passed",
+      "durationMs": 0
+    },
+    {
+      "suite": "Tier 1 - Feature 19: Production Build & Lint Verification (tier1\\f19_production_build.test.js)",
+      "name": "T1-F19-04: App Router Client Directive Compliance",
+      "status": "passed",
+      "durationMs": 3
+    },
+    {
+      "suite": "Tier 1 - Feature 19: Production Build & Lint Verification (tier1\\f19_production_build.test.js)",
+      "name": "T1-F19-05: Tailwind CSS v4 Theme Token Compilation",
+      "status": "passed",
+      "durationMs": 1
+    },
+    {
+      "suite": "Tier 1 - Feature 20: E2E Testing Suite & Coverage Verification (tier1\\f20_test_suite_verification.test.js)",
+      "name": "T1-F20-01: Node.js Test Runner Zero-Dependency Execution",
+      "status": "passed",
+      "durationMs": 1
+    },
+    {
+      "suite": "Tier 1 - Feature 20: E2E Testing Suite & Coverage Verification (tier1\\f20_test_suite_verification.test.js)",
+      "name": "T1-F20-02: Assertion Library Core Functions Verification",
+      "status": "passed",
+      "durationMs": 2
+    },
+    {
+      "suite": "Tier 1 - Feature 20: E2E Testing Suite & Coverage Verification (tier1\\f20_test_suite_verification.test.js)",
+      "name": "T1-F20-03: Tier 1 Feature Coverage Suite Aggregation",
+      "status": "passed",
+      "durationMs": 1
+    },
+    {
+      "suite": "Tier 1 - Feature 20: E2E Testing Suite & Coverage Verification (tier1\\f20_test_suite_verification.test.js)",
+      "name": "T1-F20-04: Process Exit Code Semantics on Success",
+      "status": "passed",
+      "durationMs": 1
+    },
+    {
+      "suite": "Tier 1 - Feature 20: E2E Testing Suite & Coverage Verification (tier1\\f20_test_suite_verification.test.js)",
+      "name": "T1-F20-05: Structured JSON Summary Report Generation",
+      "status": "passed",
+      "durationMs": 1
+    },
+    {
+      "suite": "Tier 2 - Feature 01: Framework & Design Tokens Boundary Cases (tier2\\f01_framework_tokens_edge.test.js)",
+      "name": "T2-F01-01: Disallowed Palette Color Rejection (Negative Boundary)",
+      "status": "passed",
+      "durationMs": 1
+    },
+    {
+      "suite": "Tier 2 - Feature 01: Framework & Design Tokens Boundary Cases (tier2\\f01_framework_tokens_edge.test.js)",
+      "name": "T2-F01-02: Corrupted Hex Value Sanitization (Negative)",
+      "status": "passed",
+      "durationMs": 1
+    },
+    {
+      "suite": "Tier 2 - Feature 01: Framework & Design Tokens Boundary Cases (tier2\\f01_framework_tokens_edge.test.js)",
+      "name": "T2-F01-03: Ultra-Narrow Viewport Zero Horizontal Overflow (Boundary)",
+      "status": "passed",
+      "durationMs": 0
+    },
+    {
+      "suite": "Tier 2 - Feature 01: Framework & Design Tokens Boundary Cases (tier2\\f01_framework_tokens_edge.test.js)",
+      "name": "T2-F01-04: Strict TypeScript Interface Compliance (Compile Negative)",
+      "status": "passed",
+      "durationMs": 0
+    },
+    {
+      "suite": "Tier 2 - Feature 01: Framework & Design Tokens Boundary Cases (tier2\\f01_framework_tokens_edge.test.js)",
+      "name": "T2-F01-05: Missing Environment Variables / Config Resilience (Edge Case)",
+      "status": "passed",
+      "durationMs": 1
+    },
+    {
+      "suite": "Tier 2 - Feature 02: UI Primitives Boundary Cases (tier2\\f02_ui_primitives_edge.test.js)",
+      "name": "T2-F02-01: Button Disabled and Loading States (Negative / Boundary)",
+      "status": "passed",
+      "durationMs": 1
+    },
+    {
+      "suite": "Tier 2 - Feature 02: UI Primitives Boundary Cases (tier2\\f02_ui_primitives_edge.test.js)",
+      "name": "T2-F02-02: TiltCard Touch Device and Coordinate Calculations (Boundary)",
+      "status": "passed",
+      "durationMs": 0
+    },
+    {
+      "suite": "Tier 2 - Feature 02: UI Primitives Boundary Cases (tier2\\f02_ui_primitives_edge.test.js)",
+      "name": "T2-F02-03: TiltCard Prefers-Reduced-Motion Override (Boundary)",
+      "status": "passed",
+      "durationMs": 1
+    },
+    {
+      "suite": "Tier 2 - Feature 02: UI Primitives Boundary Cases (tier2\\f02_ui_primitives_edge.test.js)",
+      "name": "T2-F02-04: LightboxModal Focus Trap & Escape Key (Boundary)",
+      "status": "passed",
+      "durationMs": 0
+    },
+    {
+      "suite": "Tier 2 - Feature 02: UI Primitives Boundary Cases (tier2\\f02_ui_primitives_edge.test.js)",
+      "name": "T2-F02-05: SectionHeader Extreme String Length & Null Eyebrow (Corner)",
+      "status": "passed",
+      "durationMs": 1
+    },
+    {
+      "suite": "Tier 2 - Feature 03: Navigation Boundary Cases (tier2\\f03_navigation_edge.test.js)",
+      "name": "T2-F03-01: Mobile Drawer Body Scroll Lock (Boundary)",
+      "status": "passed",
+      "durationMs": 1
+    },
+    {
+      "suite": "Tier 2 - Feature 03: Navigation Boundary Cases (tier2\\f03_navigation_edge.test.js)",
+      "name": "T2-F03-02: Mobile Drawer Escape Key & Accessibility Dialog (Boundary)",
+      "status": "passed",
+      "durationMs": 0
+    },
+    {
+      "suite": "Tier 2 - Feature 03: Navigation Boundary Cases (tier2\\f03_navigation_edge.test.js)",
+      "name": "T2-F03-03: Rapid Hamburger Toggle FSM Transitions (Corner)",
+      "status": "passed",
+      "durationMs": 1
+    },
+    {
+      "suite": "Tier 2 - Feature 03: Navigation Boundary Cases (tier2\\f03_navigation_edge.test.js)",
+      "name": "T2-F03-04: Responsive Breakpoint Separation for Desktop vs Mobile (Boundary)",
+      "status": "passed",
+      "durationMs": 1
+    },
+    {
+      "suite": "Tier 2 - Feature 03: Navigation Boundary Cases (tier2\\f03_navigation_edge.test.js)",
+      "name": "T2-F03-05: ScrollSpy 9-Section Detection Algorithm (Corner)",
+      "status": "passed",
+      "durationMs": 1
+    },
+    {
+      "suite": "Tier 2 - Feature 04: Training Programs Boundary Cases (tier2\\f04_programs_edge.test.js)",
+      "name": "T2-F04-01: Category Filtering Logic Against Real Program Catalog",
+      "status": "passed",
+      "durationMs": 1
+    },
+    {
+      "suite": "Tier 2 - Feature 04: Training Programs Boundary Cases (tier2\\f04_programs_edge.test.js)",
+      "name": "T2-F04-02: Syllabus Modal Keyboard Dismissal & Scroll Lock in Source",
+      "status": "passed",
+      "durationMs": 0
+    },
+    {
+      "suite": "Tier 2 - Feature 04: Training Programs Boundary Cases (tier2\\f04_programs_edge.test.js)",
+      "name": "T2-F04-03: Intensity Scale Boundaries (1 to 5 Verification)",
+      "status": "passed",
+      "durationMs": 1
+    },
+    {
+      "suite": "Tier 2 - Feature 04: Training Programs Boundary Cases (tier2\\f04_programs_edge.test.js)",
+      "name": "T2-F04-04: Structured 3-Phase Syllabus Progression Completeness",
+      "status": "passed",
+      "durationMs": 0
+    },
+    {
+      "suite": "Tier 2 - Feature 04: Training Programs Boundary Cases (tier2\\f04_programs_edge.test.js)",
+      "name": "T2-F04-05: Category Filter Tabs Configuration Completeness",
+      "status": "passed",
+      "durationMs": 1
+    },
+    {
+      "suite": "Tier 2 - Feature 05: About Bento Grid Boundary Cases (tier2\\f05_about_bento_edge.test.js)",
+      "name": "T2-F05-01: Asymmetrical Bento Grid 12-Column Responsive Spans (Boundary)",
+      "status": "passed",
+      "durationMs": 1
+    },
+    {
+      "suite": "Tier 2 - Feature 05: About Bento Grid Boundary Cases (tier2\\f05_about_bento_edge.test.js)",
+      "name": "T2-F05-02: Quantitative Metric Stat Callouts in Bento Grid (Corner)",
+      "status": "passed",
+      "durationMs": 0
+    },
+    {
+      "suite": "Tier 2 - Feature 05: About Bento Grid Boundary Cases (tier2\\f05_about_bento_edge.test.js)",
+      "name": "T2-F05-03: Dark Industrial Tonal Elevation & Hover Borders (Boundary)",
+      "status": "passed",
+      "durationMs": 1
+    },
+    {
+      "suite": "Tier 2 - Feature 05: About Bento Grid Boundary Cases (tier2\\f05_about_bento_edge.test.js)",
+      "name": "T2-F05-04: Semantic Image Accessibility & Responsive Sizes (Edge Case)",
+      "status": "passed",
+      "durationMs": 1
+    },
+    {
+      "suite": "Tier 2 - Feature 05: About Bento Grid Boundary Cases (tier2\\f05_about_bento_edge.test.js)",
+      "name": "T2-F05-05: Mobile Single-Column Responsive Collapse (Boundary)",
+      "status": "passed",
+      "durationMs": 1
+    },
+    {
+      "suite": "Tier 2 - Feature 06: Trainers Boundary Cases (tier2\\f06_trainers_edge.test.js)",
+      "name": "T2-F06-01: TiltCard Integration in TrainersSection (Boundary)",
+      "status": "passed",
+      "durationMs": 0
+    },
+    {
+      "suite": "Tier 2 - Feature 06: Trainers Boundary Cases (tier2\\f06_trainers_edge.test.js)",
+      "name": "T2-F06-02: Master Coaches 3-Profile Pedigree Integrity (Corner)",
+      "status": "passed",
+      "durationMs": 1
+    },
+    {
+      "suite": "Tier 2 - Feature 06: Trainers Boundary Cases (tier2\\f06_trainers_edge.test.js)",
+      "name": "T2-F06-03: Quantitative Trainer Statistics Boundaries (Boundary)",
+      "status": "passed",
+      "durationMs": 1
+    },
+    {
+      "suite": "Tier 2 - Feature 06: Trainers Boundary Cases (tier2\\f06_trainers_edge.test.js)",
+      "name": "T2-F06-04: Semantic Image Accessibility in Profile Cards (Edge Case)",
+      "status": "passed",
+      "durationMs": 0
+    },
+    {
+      "suite": "Tier 2 - Feature 06: Trainers Boundary Cases (tier2\\f06_trainers_edge.test.js)",
+      "name": "T2-F06-05: Consultation Call-to-Action Anchor Linking (Corner)",
+      "status": "passed",
+      "durationMs": 0
+    },
+    {
+      "suite": "Tier 2 - Feature 07: Membership Experience Boundary Cases (tier2\\f07_membership_edge.test.js)",
+      "name": "T2-F07-01: Annual Discount Calculation & 20% Math Verification (Boundary)",
+      "status": "passed",
+      "durationMs": 1
+    },
+    {
+      "suite": "Tier 2 - Feature 07: Membership Experience Boundary Cases (tier2\\f07_membership_edge.test.js)",
+      "name": "T2-F07-02: Comparison Matrix Toggle Button & Conditional Rendering (Corner)",
+      "status": "passed",
+      "durationMs": 0
+    },
+    {
+      "suite": "Tier 2 - Feature 07: Membership Experience Boundary Cases (tier2\\f07_membership_edge.test.js)",
+      "name": "T2-F07-03: Accessible Billing Switch Semantics (Boundary)",
+      "status": "passed",
+      "durationMs": 1
+    },
+    {
+      "suite": "Tier 2 - Feature 07: Membership Experience Boundary Cases (tier2\\f07_membership_edge.test.js)",
+      "name": "T2-F07-04: Amenity Matrix Complete 3-Tier Feature Breakdown (Corner)",
+      "status": "passed",
+      "durationMs": 0
+    },
+    {
+      "suite": "Tier 2 - Feature 07: Membership Experience Boundary Cases (tier2\\f07_membership_edge.test.js)",
+      "name": "T2-F07-05: Mobile Amenities Table Horizontal Scrolling Container (Boundary)",
+      "status": "passed",
+      "durationMs": 1
+    },
+    {
+      "suite": "Tier 2 - Feature 08: Gallery Experience Boundary Cases (tier2\\f08_gallery_edge.test.js)",
+      "name": "T2-F08-01: Lightbox Modal Keyboard Navigation & Escape Key in Source (Boundary)",
+      "status": "passed",
+      "durationMs": 0
+    },
+    {
+      "suite": "Tier 2 - Feature 08: Gallery Experience Boundary Cases (tier2\\f08_gallery_edge.test.js)",
+      "name": "T2-F08-02: 8-Photo Curated Gallery Catalog Completeness (Corner)",
+      "status": "passed",
+      "durationMs": 1
+    },
+    {
+      "suite": "Tier 2 - Feature 08: Gallery Experience Boundary Cases (tier2\\f08_gallery_edge.test.js)",
+      "name": "T2-F08-03: Lightbox Modal Component Mounting & Item Passing (Boundary)",
+      "status": "passed",
+      "durationMs": 1
+    },
+    {
+      "suite": "Tier 2 - Feature 08: Gallery Experience Boundary Cases (tier2\\f08_gallery_edge.test.js)",
+      "name": "T2-F08-04: Image Zoom Hover Animation & Visual Styling (Edge Case)",
+      "status": "passed",
+      "durationMs": 0
+    },
+    {
+      "suite": "Tier 2 - Feature 08: Gallery Experience Boundary Cases (tier2\\f08_gallery_edge.test.js)",
+      "name": "T2-F08-05: Category Filter Tab Synchronization (Corner)",
+      "status": "passed",
+      "durationMs": 1
+    },
+    {
+      "suite": "Tier 2 - Feature 09: Testimonials Boundary Cases (tier2\\f09_testimonials_edge.test.js)",
+      "name": "T2-F09-01: Integrity Mode Mandatory Demo Disclaimer Banner (Boundary)",
+      "status": "passed",
+      "durationMs": 0
+    },
+    {
+      "suite": "Tier 2 - Feature 09: Testimonials Boundary Cases (tier2\\f09_testimonials_edge.test.js)",
+      "name": "T2-F09-02: 5-Star Visual Rating in Acid Lime (Corner)",
+      "status": "passed",
+      "durationMs": 0
+    },
+    {
+      "suite": "Tier 2 - Feature 09: Testimonials Boundary Cases (tier2\\f09_testimonials_edge.test.js)",
+      "name": "T2-F09-03: Card Height Equalization and Surface Layout (Boundary)",
+      "status": "passed",
+      "durationMs": 1
+    },
+    {
+      "suite": "Tier 2 - Feature 09: Testimonials Boundary Cases (tier2\\f09_testimonials_edge.test.js)",
+      "name": "T2-F09-04: Quantifiable Performance Metric Callout Badges (Edge Case)",
+      "status": "passed",
+      "durationMs": 1
+    },
+    {
+      "suite": "Tier 2 - Feature 09: Testimonials Boundary Cases (tier2\\f09_testimonials_edge.test.js)",
+      "name": "T2-F09-05: Author Credentials & Distinct Membership Tier Badges (Boundary)",
+      "status": "passed",
+      "durationMs": 0
+    },
+    {
+      "suite": "Tier 2 - Feature 10: Final CTA & Footer Boundary Cases (tier2\\f10_final_cta_footer_edge.test.js)",
+      "name": "T2-F10-01: Final CTA Conversion Section & Contact Anchor Target (Boundary)",
+      "status": "passed",
+      "durationMs": 1
+    },
+    {
+      "suite": "Tier 2 - Feature 10: Final CTA & Footer Boundary Cases (tier2\\f10_final_cta_footer_edge.test.js)",
+      "name": "T2-F10-02: Real WhatsApp URL Builder in FinalCtaSection (Boundary)",
+      "status": "passed",
+      "durationMs": 0
+    },
+    {
+      "suite": "Tier 2 - Feature 10: Final CTA & Footer Boundary Cases (tier2\\f10_final_cta_footer_edge.test.js)",
+      "name": "T2-F10-03: Footer Responsive Multi-Column Stacking in Source (Boundary)",
+      "status": "passed",
+      "durationMs": 1
+    },
+    {
+      "suite": "Tier 2 - Feature 10: Final CTA & Footer Boundary Cases (tier2\\f10_final_cta_footer_edge.test.js)",
+      "name": "T2-F10-04: Footer Operational Hours & Contact Information Mapping (Edge Case)",
+      "status": "passed",
+      "durationMs": 0
+    },
+    {
+      "suite": "Tier 2 - Feature 10: Final CTA & Footer Boundary Cases (tier2\\f10_final_cta_footer_edge.test.js)",
+      "name": "T2-F10-05: Accessible Focus Rings & Legal Demo Notice Across Footer (Boundary)",
+      "status": "passed",
+      "durationMs": 1
+    },
+    {
+      "suite": "Tier 2 - Feature 11: Contact Form & WhatsApp Boundary Cases (tier2\\f11_contact_whatsapp_edge.test.js)",
+      "name": "T2-11-01: Empty Form Required Field Validation Rules in Source (Boundary)",
+      "status": "passed",
+      "durationMs": 1
+    },
+    {
+      "suite": "Tier 2 - Feature 11: Contact Form & WhatsApp Boundary Cases (tier2\\f11_contact_whatsapp_edge.test.js)",
+      "name": "T2-11-02: Email Regex Pattern Validation Boundary in Source (Corner)",
+      "status": "passed",
+      "durationMs": 1
+    },
+    {
+      "suite": "Tier 2 - Feature 11: Contact Form & WhatsApp Boundary Cases (tier2\\f11_contact_whatsapp_edge.test.js)",
+      "name": "T2-11-03: International Phone Regex Pattern Validation Boundary (Boundary)",
+      "status": "passed",
+      "durationMs": 0
+    },
+    {
+      "suite": "Tier 2 - Feature 11: Contact Form & WhatsApp Boundary Cases (tier2\\f11_contact_whatsapp_edge.test.js)",
+      "name": "T2-11-04: Full Name Minimum Length Boundary Check (Corner)",
+      "status": "passed",
+      "durationMs": 1
+    },
+    {
+      "suite": "Tier 2 - Feature 11: Contact Form & WhatsApp Boundary Cases (tier2\\f11_contact_whatsapp_edge.test.js)",
+      "name": "T2-11-05: WhatsApp URL Builder and Parameter Sanitization in Source (Edge Case)",
+      "status": "passed",
+      "durationMs": 0
+    },
+    {
+      "suite": "Tier 2 - Feature 12: 3D Canvas & WebGL Fallback Boundary Cases (tier2\\f12_canvas_webgl_edge.test.js)",
+      "name": "T2-12-01: WebGL Context Loss Event (webglcontextlost) Handling",
+      "status": "passed",
+      "durationMs": 0
+    },
+    {
+      "suite": "Tier 2 - Feature 12: 3D Canvas & WebGL Fallback Boundary Cases (tier2\\f12_canvas_webgl_edge.test.js)",
+      "name": "T2-12-02: Server-Side Rendering (SSR) & WebGL Support Utility Integrity",
+      "status": "passed",
+      "durationMs": 1
+    },
+    {
+      "suite": "Tier 2 - Feature 12: 3D Canvas & WebGL Fallback Boundary Cases (tier2\\f12_canvas_webgl_edge.test.js)",
+      "name": "T2-12-03: RootLayout Canvas Mount Container Layering Contract",
+      "status": "passed",
+      "durationMs": 1
+    },
+    {
+      "suite": "Tier 2 - Feature 12: 3D Canvas & WebGL Fallback Boundary Cases (tier2\\f12_canvas_webgl_edge.test.js)",
+      "name": "T2-12-04: Adaptive DPR Clamping on Mobile & Desktop Displays",
+      "status": "passed",
+      "durationMs": 0
+    },
+    {
+      "suite": "Tier 2 - Feature 12: 3D Canvas & WebGL Fallback Boundary Cases (tier2\\f12_canvas_webgl_edge.test.js)",
+      "name": "T2-12-05: WebGL Context Recovery Cycle (restoreContext)",
+      "status": "passed",
+      "durationMs": 0
+    },
+    {
+      "suite": "Tier 2 - Feature 13: Dark Industrial Gym Environment Boundary Cases (tier2\\f13_gym_environment_edge.test.js)",
+      "name": "T2-13-01: Dark Industrial Elevation Color Tokens in Theme (Boundary)",
+      "status": "passed",
+      "durationMs": 0
+    },
+    {
+      "suite": "Tier 2 - Feature 13: Dark Industrial Gym Environment Boundary Cases (tier2\\f13_gym_environment_edge.test.js)",
+      "name": "T2-13-02: Neon Accent Colors & Glow Opacity Constants (Boundary)",
+      "status": "passed",
+      "durationMs": 1
+    },
+    {
+      "suite": "Tier 2 - Feature 13: Dark Industrial Gym Environment Boundary Cases (tier2\\f13_gym_environment_edge.test.js)",
+      "name": "T2-13-03: Persistent Canvas Mount Layering & Viewport Overflow Rules (Boundary)",
+      "status": "passed",
+      "durationMs": 1
+    },
+    {
+      "suite": "Tier 2 - Feature 13: Dark Industrial Gym Environment Boundary Cases (tier2\\f13_gym_environment_edge.test.js)",
+      "name": "T2-13-04: Typography Scale & High-Performance Sans Font Stack (Edge Case)",
+      "status": "passed",
+      "durationMs": 1
+    },
+    {
+      "suite": "Tier 2 - Feature 13: Dark Industrial Gym Environment Boundary Cases (tier2\\f13_gym_environment_edge.test.js)",
+      "name": "T2-13-05: Brand Theme Color Palette Lockdown in Application Config (Corner)",
+      "status": "passed",
+      "durationMs": 1
+    },
+    {
+      "suite": "Tier 2 - Feature 14: 3D Athletic Hero Figure Boundary Cases (tier2\\f14_hero_figure_edge.test.js)",
+      "name": "T2-14-01: Initial Hero Camera Vantage Point Continuity (Boundary)",
+      "status": "passed",
+      "durationMs": 0
+    },
+    {
+      "suite": "Tier 2 - Feature 14: 3D Athletic Hero Figure Boundary Cases (tier2\\f14_hero_figure_edge.test.js)",
+      "name": "T2-14-02: HeroOverlay Responsive Padding & Viewport Constraints (Boundary)",
+      "status": "passed",
+      "durationMs": 1
+    },
+    {
+      "suite": "Tier 2 - Feature 14: 3D Athletic Hero Figure Boundary Cases (tier2\\f14_hero_figure_edge.test.js)",
+      "name": "T2-14-03: Atmospheric Radial Glow Backdrop Layering (Edge Case)",
+      "status": "passed",
+      "durationMs": 0
+    },
+    {
+      "suite": "Tier 2 - Feature 14: 3D Athletic Hero Figure Boundary Cases (tier2\\f14_hero_figure_edge.test.js)",
+      "name": "T2-14-04: Call-to-Action Dual Button Responsiveness (Corner)",
+      "status": "passed",
+      "durationMs": 1
+    },
+    {
+      "suite": "Tier 2 - Feature 14: 3D Athletic Hero Figure Boundary Cases (tier2\\f14_hero_figure_edge.test.js)",
+      "name": "T2-14-05: Accessible Section Semantics and Skip-To-Content Link (Boundary)",
+      "status": "passed",
+      "durationMs": 1
+    },
+    {
+      "suite": "Tier 2 - Feature 15: Camera Narrative Boundary Cases (tier2\\f15_camera_narrative_edge.test.js)",
+      "name": "T2-15-01: Adversarial Progress Input Sanitization (Boundary)",
+      "status": "passed",
+      "durationMs": 0
+    },
+    {
+      "suite": "Tier 2 - Feature 15: Camera Narrative Boundary Cases (tier2\\f15_camera_narrative_edge.test.js)",
+      "name": "T2-15-02: Catmull-Rom Interpolation Precision Across High-Density Samples (Corner)",
+      "status": "passed",
+      "durationMs": 2
+    },
+    {
+      "suite": "Tier 2 - Feature 15: Camera Narrative Boundary Cases (tier2\\f15_camera_narrative_edge.test.js)",
+      "name": "T2-15-03: Negative and Overscroll Progress Clamping (Boundary)",
+      "status": "passed",
+      "durationMs": 0
+    },
+    {
+      "suite": "Tier 2 - Feature 15: Camera Narrative Boundary Cases (tier2\\f15_camera_narrative_edge.test.js)",
+      "name": "T2-15-04: Reduced Motion Mode Static Vantage Lock Under Adversarial Inputs (Boundary)",
+      "status": "passed",
+      "durationMs": 1
+    },
+    {
+      "suite": "Tier 2 - Feature 15: Camera Narrative Boundary Cases (tier2\\f15_camera_narrative_edge.test.js)",
+      "name": "T2-15-05: Spline Degenerate Point Set Resilience (Edge Case)",
+      "status": "passed",
+      "durationMs": 0
+    },
+    {
+      "suite": "Tier 2 - Feature 16: Equipment Showcase Boundary Cases (tier2\\f16_equipment_showcase_edge.test.js)",
+      "name": "T2-16-01: Equipment Catalog Item Schema & Narrative Descriptions (Boundary)",
+      "status": "passed",
+      "durationMs": 0
+    },
+    {
+      "suite": "Tier 2 - Feature 16: Equipment Showcase Boundary Cases (tier2\\f16_equipment_showcase_edge.test.js)",
+      "name": "T2-16-02: EquipmentSectionOverlay Interactive Tab Selection State (Corner)",
+      "status": "passed",
+      "durationMs": 1
+    },
+    {
+      "suite": "Tier 2 - Feature 16: Equipment Showcase Boundary Cases (tier2\\f16_equipment_showcase_edge.test.js)",
+      "name": "T2-16-03: FSM State Transition Validation Across All 4 Equipment Models (Boundary)",
+      "status": "passed",
+      "durationMs": 1
+    },
+    {
+      "suite": "Tier 2 - Feature 16: Equipment Showcase Boundary Cases (tier2\\f16_equipment_showcase_edge.test.js)",
+      "name": "T2-16-04: Overlay Material & Dimensions Badge Callouts in Source (Edge Case)",
+      "status": "passed",
+      "durationMs": 0
+    },
+    {
+      "suite": "Tier 2 - Feature 16: Equipment Showcase Boundary Cases (tier2\\f16_equipment_showcase_edge.test.js)",
+      "name": "T2-16-05: Calibrated Precision Metric Labels in Equipment Config (Corner)",
+      "status": "passed",
+      "durationMs": 0
+    },
+    {
+      "suite": "Tier 2 - Feature 17: Accessibility & Motion Boundary Cases (tier2\\f17_accessibility_motion_edge.test.js)",
+      "name": "T2-17-01: Accessible Skip-to-Content Link Landmark Contract (Boundary)",
+      "status": "passed",
+      "durationMs": 1
+    },
+    {
+      "suite": "Tier 2 - Feature 17: Accessibility & Motion Boundary Cases (tier2\\f17_accessibility_motion_edge.test.js)",
+      "name": "T2-17-02: Global Accessible Focus Ring Theme Tokens in CSS (Boundary)",
+      "status": "passed",
+      "durationMs": 0
+    },
+    {
+      "suite": "Tier 2 - Feature 17: Accessibility & Motion Boundary Cases (tier2\\f17_accessibility_motion_edge.test.js)",
+      "name": "T2-17-03: Navigation Links Complete Landmark Anchor Sequence (Corner)",
+      "status": "passed",
+      "durationMs": 1
+    },
+    {
+      "suite": "Tier 2 - Feature 17: Accessibility & Motion Boundary Cases (tier2\\f17_accessibility_motion_edge.test.js)",
+      "name": "T2-17-04: Reduced Motion Camera Lock Contract in Evaluator (Boundary)",
+      "status": "passed",
+      "durationMs": 0
+    },
+    {
+      "suite": "Tier 2 - Feature 17: Accessibility & Motion Boundary Cases (tier2\\f17_accessibility_motion_edge.test.js)",
+      "name": "T2-17-05: Modal Dialog Accessibility Roles & Escape Key in Source (Edge Case)",
+      "status": "passed",
+      "durationMs": 1
+    },
+    {
+      "suite": "Tier 2 - Feature 18: Mobile Performance Boundary Cases (tier2\\f18_mobile_performance_edge.test.js)",
+      "name": "T2-18-01: Viewport Metadata Scalability & Constraints (Boundary)",
+      "status": "passed",
+      "durationMs": 1
+    },
+    {
+      "suite": "Tier 2 - Feature 18: Mobile Performance Boundary Cases (tier2\\f18_mobile_performance_edge.test.js)",
+      "name": "T2-18-02: Touch Target Minimum Dimension Compliance (Boundary)",
+      "status": "passed",
+      "durationMs": 0
+    },
+    {
+      "suite": "Tier 2 - Feature 18: Mobile Performance Boundary Cases (tier2\\f18_mobile_performance_edge.test.js)",
+      "name": "T2-18-03: Mobile Dynamic Viewport Height (100dvh) in HeroOverlay (Corner)",
+      "status": "passed",
+      "durationMs": 1
+    },
+    {
+      "suite": "Tier 2 - Feature 18: Mobile Performance Boundary Cases (tier2\\f18_mobile_performance_edge.test.js)",
+      "name": "T2-18-04: Next.js Image Optimization Formats in next.config.ts (Edge Case)",
+      "status": "passed",
+      "durationMs": 0
+    },
+    {
+      "suite": "Tier 2 - Feature 18: Mobile Performance Boundary Cases (tier2\\f18_mobile_performance_edge.test.js)",
+      "name": "T2-18-05: Global Zero Horizontal Scroll Clipping in CSS (Boundary)",
+      "status": "passed",
+      "durationMs": 1
+    },
+    {
+      "suite": "Tier 2 - Feature 19: Production Build & Lint Boundary Cases (tier2\\f19_production_build_edge.test.js)",
+      "name": "T2-19-01: Strict TypeScript Configuration & Path Alias Mapping (Boundary)",
+      "status": "passed",
+      "durationMs": 1
+    },
+    {
+      "suite": "Tier 2 - Feature 19: Production Build & Lint Boundary Cases (tier2\\f19_production_build_edge.test.js)",
+      "name": "T2-19-02: Next.js 15 & React 19 Dependency Alignment in package.json (Boundary)",
+      "status": "passed",
+      "durationMs": 0
+    },
+    {
+      "suite": "Tier 2 - Feature 19: Production Build & Lint Boundary Cases (tier2\\f19_production_build_edge.test.js)",
+      "name": "T2-19-03: Transpile Packages & React Strict Mode in next.config.ts (Edge Case)",
+      "status": "passed",
+      "durationMs": 1
+    },
+    {
+      "suite": "Tier 2 - Feature 19: Production Build & Lint Boundary Cases (tier2\\f19_production_build_edge.test.js)",
+      "name": "T2-19-04: Client Directive Compliance Across Interactive Components (Corner)",
+      "status": "passed",
+      "durationMs": 2
+    },
+    {
+      "suite": "Tier 2 - Feature 19: Production Build & Lint Boundary Cases (tier2\\f19_production_build_edge.test.js)",
+      "name": "T2-19-05: Production Environment & Demo Mode Configuration Security (Boundary)",
+      "status": "passed",
+      "durationMs": 0
+    },
+    {
+      "suite": "Tier 2 - Feature 20: Test Suite Verification Boundary Cases (tier2\\f20_test_suite_verification_edge.test.js)",
+      "name": "T2-20-01: Deliberate Test Failure Reporting & Non-Zero Exit Code",
+      "status": "passed",
+      "durationMs": 2
+    },
+    {
+      "suite": "Tier 2 - Feature 20: Test Suite Verification Boundary Cases (tier2\\f20_test_suite_verification_edge.test.js)",
+      "name": "T2-20-02: Asynchronous Test Timeout Trapping (5000ms Limit)",
+      "status": "passed",
+      "durationMs": 94
+    },
+    {
+      "suite": "Tier 2 - Feature 20: Test Suite Verification Boundary Cases (tier2\\f20_test_suite_verification_edge.test.js)",
+      "name": "T2-20-03: Unhandled Promise Rejection Trap",
+      "status": "passed",
+      "durationMs": 84
+    },
+    {
+      "suite": "Tier 2 - Feature 20: Test Suite Verification Boundary Cases (tier2\\f20_test_suite_verification_edge.test.js)",
+      "name": "T2-20-04: Malformed JSON Reporter Recovery Under Piped Output",
+      "status": "passed",
+      "durationMs": 105
+    },
+    {
+      "suite": "Tier 2 - Feature 20: Test Suite Verification Boundary Cases (tier2\\f20_test_suite_verification_edge.test.js)",
+      "name": "T2-20-05: Test Idempotency & Zero Flakiness Verification",
+      "status": "passed",
+      "durationMs": 1
+    },
+    {
+      "suite": "Tier 3: Cross-Feature Interactions (T3-01 to T3-06) (tier3\\t3_01_to_06_nav_equipment.test.js)",
+      "name": "T3-01: Navbar Anchor Navigation Click -> Smooth Scroll -> 3D Camera Waypoint Synchronized Transition",
+      "status": "passed",
+      "durationMs": 1
+    },
+    {
+      "suite": "Tier 3: Cross-Feature Interactions (T3-01 to T3-06) (tier3\\t3_01_to_06_nav_equipment.test.js)",
+      "name": "T3-02: ScrollSpy Scroll Tracking -> Navbar Active Indicator & 3D Spline Progress Sync",
+      "status": "passed",
+      "durationMs": 1
+    },
+    {
+      "suite": "Tier 3: Cross-Feature Interactions (T3-01 to T3-06) (tier3\\t3_01_to_06_nav_equipment.test.js)",
+      "name": "T3-03: Membership Tier Card CTA Click (\"SELECT PRO\") -> Contact Form Prefill & Focus",
+      "status": "passed",
+      "durationMs": 0
+    },
+    {
+      "suite": "Tier 3: Cross-Feature Interactions (T3-01 to T3-06) (tier3\\t3_01_to_06_nav_equipment.test.js)",
+      "name": "T3-04: Membership Tier Select (\"ELITE\") -> Contact Form Prefill with Lime Accent Highlight",
+      "status": "passed",
+      "durationMs": 0
+    },
+    {
+      "suite": "Tier 3: Cross-Feature Interactions (T3-01 to T3-06) (tier3\\t3_01_to_06_nav_equipment.test.js)",
+      "name": "T3-05: Equipment Showcase Tab Switch (Barbell -> Dumbbell) -> 3D Model Swap & Hotspots Update",
+      "status": "passed",
+      "durationMs": 42
+    },
+    {
+      "suite": "Tier 3: Cross-Feature Interactions (T3-01 to T3-06) (tier3\\t3_01_to_06_nav_equipment.test.js)",
+      "name": "T3-06: Equipment Showcase Hotspot Click -> Detail Callout Expansion & OrbitControls Focus",
+      "status": "passed",
+      "durationMs": 0
+    },
+    {
+      "suite": "Tier 3: Cross-Feature Interactions (T3-07 to T3-12) (tier3\\t3_07_to_12_drawer_motion.test.js)",
+      "name": "T3-07: Mobile Drawer Open -> Viewport Resize to Desktop -> Drawer Auto-Dismiss & Navbar State Restoration",
+      "status": "passed",
+      "durationMs": 1
+    },
+    {
+      "suite": "Tier 3: Cross-Feature Interactions (T3-07 to T3-12) (tier3\\t3_07_to_12_drawer_motion.test.js)",
+      "name": "T3-08: Mobile Drawer Open -> Body Scroll Lock Enforcement -> Nav Link Click -> Drawer Close & Scroll Unlock",
+      "status": "passed",
+      "durationMs": 6
+    },
+    {
+      "suite": "Tier 3: Cross-Feature Interactions (T3-07 to T3-12) (tier3\\t3_07_to_12_drawer_motion.test.js)",
+      "name": "T3-09: Contact Form Valid Submission in Demo Mode -> Feedback Notification & Form Reset",
+      "status": "passed",
+      "durationMs": 1
+    },
+    {
+      "suite": "Tier 3: Cross-Feature Interactions (T3-07 to T3-12) (tier3\\t3_07_to_12_drawer_motion.test.js)",
+      "name": "T3-10: Contact Form Validation Error -> Red/Violet Border -> Corrective Typing Clears Error in Real-time",
+      "status": "passed",
+      "durationMs": 0
+    },
+    {
+      "suite": "Tier 3: Cross-Feature Interactions (T3-07 to T3-12) (tier3\\t3_07_to_12_drawer_motion.test.js)",
+      "name": "T3-11: 3D Equipment OrbitControls Drag -> Scroll Passthrough Prevention -> Idle Levitation Resumption",
+      "status": "passed",
+      "durationMs": 1
+    },
+    {
+      "suite": "Tier 3: Cross-Feature Interactions (T3-07 to T3-12) (tier3\\t3_07_to_12_drawer_motion.test.js)",
+      "name": "T3-12: Reduced Motion Toggle -> GSAP 5-Scene Camera Narrative Switches to Instant Waypoint Cuts",
+      "status": "passed",
+      "durationMs": 0
+    },
+    {
+      "suite": "Tier 3: Cross-Feature Interactions (T3-13 to T3-18) (tier3\\t3_13_to_18_cards_webgl_modal.test.js)",
+      "name": "T3-13: Reduced Motion Active -> Trainer 3D Tilt Cards Disable Perspective Transform & Retain Flat Hover",
+      "status": "passed",
+      "durationMs": 1
+    },
+    {
+      "suite": "Tier 3: Cross-Feature Interactions (T3-13 to T3-18) (tier3\\t3_13_to_18_cards_webgl_modal.test.js)",
+      "name": "T3-14: WebGL Context Loss (webglcontextlost) -> Instant Fallback to Static Hero Graphic & CSS Glows",
+      "status": "passed",
+      "durationMs": 0
+    },
+    {
+      "suite": "Tier 3: Cross-Feature Interactions (T3-13 to T3-18) (tier3\\t3_13_to_18_cards_webgl_modal.test.js)",
+      "name": "T3-15: WebGL Context Restored (webglcontextrestored) -> 3D Scene Re-initialization & Fallback Disposal",
+      "status": "passed",
+      "durationMs": 1
+    },
+    {
+      "suite": "Tier 3: Cross-Feature Interactions (T3-13 to T3-18) (tier3\\t3_13_to_18_cards_webgl_modal.test.js)",
+      "name": "T3-16: Training Program Card Syllabus Modal Open -> Focus Trap Activated -> Escape Key Closes Modal",
+      "status": "passed",
+      "durationMs": 0
+    },
+    {
+      "suite": "Tier 3: Cross-Feature Interactions (T3-13 to T3-18) (tier3\\t3_13_to_18_cards_webgl_modal.test.js)",
+      "name": "T3-17: Gallery Item Click -> Lightbox Modal Open -> Left/Right Arrow Navigation -> Counter Update",
+      "status": "passed",
+      "durationMs": 0
+    },
+    {
+      "suite": "Tier 3: Cross-Feature Interactions (T3-13 to T3-18) (tier3\\t3_13_to_18_cards_webgl_modal.test.js)",
+      "name": "T3-18: Gallery Lightbox Open -> Background Scroll Lock -> Backdrop Click Dismiss -> Scroll Position Preserved",
+      "status": "passed",
+      "durationMs": 1
+    },
+    {
+      "suite": "Tier 3: Cross-Feature Interactions (T3-19 to T3-24) (tier3\\t3_19_to_24_pricing_cta_viewport.test.js)",
+      "name": "T3-19: Membership Billing Switcher (Monthly <-> Annual) -> 20% Discount Math & Price Display Sync",
+      "status": "passed",
+      "durationMs": 0
+    },
+    {
+      "suite": "Tier 3: Cross-Feature Interactions (T3-19 to T3-24) (tier3\\t3_19_to_24_pricing_cta_viewport.test.js)",
+      "name": "T3-20: WhatsApp Button Click -> Generates Parameterized URL with Pre-selected Membership Tier & Source",
+      "status": "passed",
+      "durationMs": 1
+    },
+    {
+      "suite": "Tier 3: Cross-Feature Interactions (T3-19 to T3-24) (tier3\\t3_19_to_24_pricing_cta_viewport.test.js)",
+      "name": "T3-21: Hero CTA Click (\"START YOUR TRANSFORMATION\") -> Smooth Scroll to Membership & Pro Card Pulse",
+      "status": "passed",
+      "durationMs": 0
+    },
+    {
+      "suite": "Tier 3: Cross-Feature Interactions (T3-19 to T3-24) (tier3\\t3_19_to_24_pricing_cta_viewport.test.js)",
+      "name": "T3-22: Viewport Orientation / DPR Change -> Adaptive DPR Re-clamping & Buffer Resize",
+      "status": "passed",
+      "durationMs": 1
+    },
+    {
+      "suite": "Tier 3: Cross-Feature Interactions (T3-19 to T3-24) (tier3\\t3_19_to_24_pricing_cta_viewport.test.js)",
+      "name": "T3-23: Keyboard Tab Navigation Cycle -> 3D Canvas Focus Bypass (tabindex=\"-1\") -> Skip Link Jump",
+      "status": "passed",
+      "durationMs": 0
+    },
+    {
+      "suite": "Tier 3: Cross-Feature Interactions (T3-19 to T3-24) (tier3\\t3_19_to_24_pricing_cta_viewport.test.js)",
+      "name": "T3-24: Final CTA \"CLAIM 1-DAY PASS\" Click -> Opens Contact Modal with Trial Pre-selected & Demo Notice",
+      "status": "passed",
+      "durationMs": 1
+    },
+    {
+      "suite": "Tier 4: Real-World Prospect User Journeys (Scenarios 01 to 05) (tier4\\t4_01_to_05_journeys.test.js)",
+      "name": "T4-SCN-01: Prospect Gym Owner VIP Desktop Evaluation Tour",
+      "status": "passed",
+      "durationMs": 2
+    },
+    {
+      "suite": "Tier 4: Real-World Prospect User Journeys (Scenarios 01 to 05) (tier4\\t4_01_to_05_journeys.test.js)",
+      "name": "T4-SCN-02: High-Intent Member Lead Discovery to Contact Submission",
+      "status": "passed",
+      "durationMs": 2
+    },
+    {
+      "suite": "Tier 4: Real-World Prospect User Journeys (Scenarios 01 to 05) (tier4\\t4_01_to_05_journeys.test.js)",
+      "name": "T4-SCN-03: Mobile Smartphone Visitor Touch Journey (iOS Safari / Android Chrome)",
+      "status": "passed",
+      "durationMs": 1
+    },
+    {
+      "suite": "Tier 4: Real-World Prospect User Journeys (Scenarios 01 to 05) (tier4\\t4_01_to_05_journeys.test.js)",
+      "name": "T4-SCN-04: Low-Spec Hardware / WebGL-Disabled Hardware Fallback Journey",
+      "status": "passed",
+      "durationMs": 1
+    },
+    {
+      "suite": "Tier 4: Real-World Prospect User Journeys (Scenarios 01 to 05) (tier4\\t4_01_to_05_journeys.test.js)",
+      "name": "T4-SCN-05: Accessibility-First & Reduced Motion Journey (Screen Reader + Keyboard Only)",
+      "status": "passed",
+      "durationMs": 1
+    },
+    {
+      "suite": "Tier 4: Real-World Prospect User Journeys (Scenarios 06 to 10) (tier4\\t4_06_to_10_journeys.test.js)",
+      "name": "T4-SCN-06: Equipment Enthusiast Deep 3D Apparatus Exploration Journey",
+      "status": "passed",
+      "durationMs": 2
+    },
+    {
+      "suite": "Tier 4: Real-World Prospect User Journeys (Scenarios 06 to 10) (tier4\\t4_06_to_10_journeys.test.js)",
+      "name": "T4-SCN-07: Visual Explorer Facility & Community Gallery Browsing Journey",
+      "status": "passed",
+      "durationMs": 1
+    },
+    {
+      "suite": "Tier 4: Real-World Prospect User Journeys (Scenarios 06 to 10) (tier4\\t4_06_to_10_journeys.test.js)",
+      "name": "T4-SCN-08: Direct VIP Lead WhatsApp Conversion Pipeline Journey",
+      "status": "passed",
+      "durationMs": 2
+    },
+    {
+      "suite": "Tier 4: Real-World Prospect User Journeys (Scenarios 06 to 10) (tier4\\t4_06_to_10_journeys.test.js)",
+      "name": "T4-SCN-09: Contact Form Validation Recovery & Demo Lead Submission Flow",
+      "status": "passed",
+      "durationMs": 1
+    },
+    {
+      "suite": "Tier 4: Real-World Prospect User Journeys (Scenarios 06 to 10) (tier4\\t4_06_to_10_journeys.test.js)",
+      "name": "T4-SCN-10: Full-Site Narrative Scroll-Through Experience (Hero to Footer CTA)",
+      "status": "passed",
+      "durationMs": 2
+    }
+  ]
+}
